@@ -1,0 +1,50 @@
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.exe
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.pdb
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\obj\x86\Debug\Loto.csprojResolveAssemblyReference.cache
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\obj\x86\Debug\Loto.exe
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\obj\x86\Debug\Loto.pdb
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\Content\font1.xnb
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Blank.png
+C:\Users\DORIAN\Documents\Visual Studio 2015\Projects\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Checked.png
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.exe
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.pdb
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\font1.xnb
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Blank.png
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Checked.png
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.exe
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.pdb
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\NVorbis.dll
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\OpenTK.dll
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.csprojResolveAssemblyReference.cache
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.exe.manifest
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.application
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.exe.manifest
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.application
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Blank.xnb
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Checked.xnb
+J:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\font2.xnb
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.exe
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.pdb
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\font1.xnb
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\font2.xnb
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Blank.xnb
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Checked.xnb
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Blank.png
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Content\IMGS\Checked.png
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.exe.manifest
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.application
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.exe
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\Loto.pdb
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\NVorbis.dll
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\bin\DesktopGL\x86\Debug\OpenTK.dll
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.csprojResolveAssemblyReference.cache
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.exe.manifest
+F:\Mono Games\11-2016\Mono Games 07-11-2016\WIP\Loto\Loto\obj\x86\Debug\Loto.application
